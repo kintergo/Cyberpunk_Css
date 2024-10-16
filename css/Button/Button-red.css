@@ -1,0 +1,293 @@
+/*
+
+bouton jaune taille 1
+
+*/
+
+.Btn-T1-1-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 190px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-1-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 2
+
+*/
+
+.Btn-T1-2-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 290px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-2-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 3
+
+*/
+
+.Btn-T1-3-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 390px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 95.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-3-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 4
+
+*/
+
+.Btn-T1-4-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 490px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 97.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-4-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 5
+
+*/
+
+.Btn-T1-5-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 590px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-5-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 6
+
+*/
+
+.Btn-T1-6-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 690px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-6-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 7
+
+*/
+
+.Btn-T1-7-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 790px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-7-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 8
+
+*/
+
+.Btn-T1-8-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 890px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-8-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+/*
+
+bouton jaune taille 9
+
+*/
+
+.Btn-T1-9-r{
+    transition: 1s;
+    background-color:transparent;
+    height: 40px;
+    width: 990px;
+    border: 0px solid transparent;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T1-9-r:hover{
+    transition: 2s;
+    background-color:rgba(0, 0, 0, 0.192);
+    border:1px solid red; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: rgb(75, 75, 75);
+}

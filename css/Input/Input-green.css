@@ -1,16 +1,7 @@
-/*
-
-bouton jaune taille 1
-
-*/
-
-.Btn-T1-1-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-1-g{
     height: 40px;
     width: 190px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,61 +9,29 @@ bouton jaune taille 1
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-1-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 2
-
-*/
-
-.Btn-T1-2-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-2-g{
     height: 40px;
     width: 290px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Cyberpunk Is Not Dead', sans-serif;
     letter-spacing: 2px;
     font-weight: 700;
-    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-2-y:hover{
-    transition: 2s;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 94.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 3
-
-*/
-
-.Btn-T1-3-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-3-g{
     height: 40px;
     width: 390px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,30 +39,14 @@ bouton jaune taille 3
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 95.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-3-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 4
-
-*/
-
-.Btn-T1-4-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-4-g{
     height: 40px;
     width: 490px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,30 +54,14 @@ bouton jaune taille 4
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 97.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-4-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 5
-
-*/
-
-.Btn-T1-5-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-5-g{
     height: 40px;
     width: 590px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -142,30 +69,14 @@ bouton jaune taille 5
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-5-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 6
-
-*/
-
-.Btn-T1-6-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-6-g{
     height: 40px;
     width: 690px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -173,30 +84,14 @@ bouton jaune taille 6
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-6-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 7
-
-*/
-
-.Btn-T1-7-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-7-g{
     height: 40px;
     width: 790px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -204,30 +99,14 @@ bouton jaune taille 7
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-7-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 8
-
-*/
-
-.Btn-T1-8-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-8-g{
     height: 40px;
     width: 890px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -235,30 +114,14 @@ bouton jaune taille 8
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-8-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-/*
-
-bouton jaune taille 9
-
-*/
-
-.Btn-T1-9-y{
-    transition: 1s;
-    background-color:transparent;
+.Inp-T1-9-g{
     height: 40px;
     width: 990px;
-    border: 0px solid transparent;
-    color: #ffff00;
+    color: green;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -266,28 +129,7 @@ bouton jaune taille 9
     letter-spacing: 2px;
     font-weight: 700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 98.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
-    
-}
-
-.Btn-T1-9-y:hover{
-    transition: 2s;
     background-color:rgba(0, 0, 0, 0.192);
-    border:1px solid #ffff00; 
+    border:1px solid green; 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-body{
-    background-color: rgb(75, 75, 75);
-}
