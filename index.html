@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projet</title>
+    <link rel="icon" href="/image/icon/cyberpunk.png">
     <link rel="stylesheet" href="css/Button/Button-blue.css">
     <link rel="stylesheet" href="css/Button/Button-purple.css">
     <link rel="stylesheet" href="css/Button/Button-green.css">
@@ -15,20 +16,25 @@
     <link rel="stylesheet" href="css/Body/Section.css">
     <link rel="stylesheet" href="css/Bar/Bar-yellow.css">
     <link rel="stylesheet" href="css/background/background.css">
+    <link rel="stylesheet" href="css/position/flex.css">
 </head>
+<script src="Js/Index.js">
+
+</script>
 <header>
     <nav class="NavBar-T1-y">
 
-        <button class="Btn-T1-1-y">Acceuil</button>
-        <button class="Btn-T1-1-y">Section 1</button>
-        <button class="Btn-T1-1-y">Section 2</button>
+        <button class="Btn-T1-1-y" onclick="button('Home')">Acceuil</button>
+        <button class="Btn-T1-1-y" onclick="button('Sec1')">Section 1</button>
+        <button class="Btn-T1-1-y" onclick="button('Sec2')">Section 2</button>
+        <h1 id="date"></h1>
 
     </nav>
 </header>
 <body>
-
+    
     <main class="Main-T1" id="Home">
-       
+       <div class="background"></div>
     </main>
 
 
