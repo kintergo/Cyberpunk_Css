@@ -4,6 +4,11 @@ bouton jaune taille 1
 
 */
 
+button{
+    cursor: cell;
+}
+
+
 .Btn-T1-1-y{
     transition: 1s;
     background-color:transparent;
@@ -22,7 +27,7 @@ bouton jaune taille 1
 }
 
 .Btn-T1-1-y:hover{
-    transition: 2s;
+    transition: 1s;
     background-color:rgba(0, 0, 0, 0.192);
     border:1px solid #ffff00; 
 }

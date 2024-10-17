@@ -3,7 +3,9 @@
 bouton jaune taille 1
 
 */
-
+button{
+    cursor: cell;
+}
 .Btn-T1-1-r{
     transition: 1s;
     background-color:transparent;
