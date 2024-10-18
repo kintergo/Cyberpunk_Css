@@ -11,7 +11,18 @@ html {
 
 header{
 
+    height: 100px;
     background-color: rgb(52, 52, 52);
     cursor: crosshair;
+    display: flex;
+    justify-content: end;
+    align-items: center;
     
+}
+
+
+footer{
+    height: 200px;
+    background-color: rgb(52, 52, 52);
+
 }

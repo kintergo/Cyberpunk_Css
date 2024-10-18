@@ -10,7 +10,7 @@ button{
 
 
 .Btn-T1-1-y{
-    transition: 1s;
+    
     background-color:transparent;
     height: 40px;
     width: 190px;
@@ -27,7 +27,7 @@ button{
 }
 
 .Btn-T1-1-y:hover{
-    transition: 1s;
+   
     background-color:rgba(0, 0, 0, 0.192);
     border:1px solid #ffff00; 
 }
@@ -289,6 +289,30 @@ bouton jaune taille 9
 
 
 
+
+.Btn-T2-1-y{
+    
+    background-color:transparent;
+    height: 40px;
+    width: 190px;
+    border: 0px solid transparent;
+    color: #ffff00;
+    border:1px solid #ffff00; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Cyberpunk Is Not Dead', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+    
+}
+
+.Btn-T2-1-y:hover{
+   
+    background-color:rgba(0, 0, 0, 0.192);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 72.3%, 88.2% 100%, 54.7% 100%, 10.4% 100%, 0% 100%);
+}
 
 
 
