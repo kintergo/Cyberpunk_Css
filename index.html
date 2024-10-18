@@ -18,15 +18,20 @@
     <link rel="stylesheet" href="css/background/background.css">
     <link rel="stylesheet" href="css/position/flex.css">
     <link rel="stylesheet" href="css/Body/content.css">
+    <link rel="stylesheet" href="css/Cross/blue-cross.css">
 </head>
 <script src="Js/Index.js">
 
 </script>
+<script>
+
+</script>
+
 <header>
     <nav class="NavBar-T1-y">
 
-        <button class="Btn-T2-1-y" onclick="button('Home')">Vidéo</button>
-        <button class="Btn-T1-1-y" onclick="button('Sec1')">CV</button>
+        <button class="Btn-T1-1-y" onclick="button('Home')">Vidéo</button>
+        <button class="Btn-T1-1-y" onclick="button('tp1')">CV</button>
         <button class="Btn-T1-1-y" onclick="button('Sec2')">Projet Profetionnel</button>
         <h1 id="date"></h1>
 
@@ -39,10 +44,12 @@
     </main>
 
 
-    <div class="Bar-T1-top-y"></div>
+    <div id="tp1" class="Bar-T1-top-y"></div>
+    <div id="test"></div>
     <section class="sec1" id="Sec1">
-        <div class="content">
-
+        <div id="content" class="content" onclick="content()">
+            <div id="cross" class="cross"></div>
+            
         </div>
     </section>
     <div class="Bar-T1-buttom-y"></div>

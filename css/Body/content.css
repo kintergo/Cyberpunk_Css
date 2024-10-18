@@ -6,12 +6,14 @@
     border: 6px double rgb(0, 240, 255);
 }
 
-.content:hover{
-    transition: 1s;
-    height: 90%;
-    width: 90%;
+.content-visibylity2{
+    transition: 5s;
+    height: 100%;
+    width: 100%;
     background-color: rgb(52, 52, 52);
-  
+    border: 6px double rgb(0, 240, 255);
+    z-index: 1;
+    
 }
 
 

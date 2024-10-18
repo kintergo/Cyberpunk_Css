@@ -24,6 +24,45 @@ function button(href){
 
 }
 
+function content(){
+
+    document.location.href ="#test"
+
+    const content =  document.querySelector("#content")
+
+    const header = document.querySelector("header")
+
+    const cross = document.querySelector("#cross")
+
+    if( content.className == "content"){
+
+
+        cross.style.visibility = "visible"
+
+        header.style.visibility = "hidden"
+
+        content.className="content-visibylity2"
+
+        document.documentElement.style.overflow = "hidden"
+
+    }else if(content.className == "content-visibylity2"){
+
+        cross.style.visibility = "hidden"
+
+        header.style.visibility = "visible"
+
+        content.className="content"
+
+        document.documentElement.style.overflow = "visible"
+    }
+
+    
+
+}
+
+
+
+
 
 
 

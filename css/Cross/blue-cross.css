@@ -1,0 +1,16 @@
+.cross{
+
+    height: 60px;
+    width: 60px;
+    background-color:  rgb(0, 240, 255);
+    clip-path: polygon(0% 45%,45% 45%,45% 0%,55% 0%,55% 45%,100% 45%,100% 55%,55% 55%,55% 100%,45% 100% ,45% 55%,0% 55%);
+    rotate: 45deg;
+    visibility: hidden;
+    opacity: 0.1;
+
+}
+
+.cross:hover{
+    visibility: visible;
+    opacity: 1;
+}
