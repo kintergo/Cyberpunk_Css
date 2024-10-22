@@ -43,7 +43,7 @@ function content(){
 
         header.style.visibility = "hidden"
 
-        html.style.visibility = "hidden"
+        //html.style.visibility = "hidden"
 
         content.style.visibility = "visible"
 
@@ -55,7 +55,7 @@ function content(){
 
         cross.style.visibility = "hidden"
 
-        html.style.visibility = "visible"
+        //html.style.visibility = "visible"
 
         header.style.visibility = "visible"
 
